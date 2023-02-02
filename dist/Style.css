@@ -35,7 +35,7 @@
     object-fit: cover;
     /*background-color: rgb(17, 119, 119);*/
     margin-top: 1px;
-    margin-bottom: 1px;
+    margin-bottom: 10px;
     margin-left: 10px;
     margin-right: 10px !important;
     text-align: left;
@@ -115,3 +115,10 @@ b{
 
 
 /*Thriller*/
+#thriller{
+    margin-top: 50px;
+}
+
+.thriller{
+    margin-top: 40px;
+}
